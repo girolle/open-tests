@@ -1,1 +1,1 @@
-var $jscomp$destructuring$var0=require("./initData"),errors=$jscomp$destructuring$var0.errors;errors("error1");console.log("not working");
+var $jscomp$destructuring$var0=require("./errors"),errors=$jscomp$destructuring$var0.errors;errors("error1");console.log("not working");
