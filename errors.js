@@ -1,0 +1,1 @@
+function errors(a){console.log("\u001b[31m"+{error1:"\u041e\u0448\u0438\u0431\u043a\u04301",error2:"\u041e\u0448\u0438\u0431\u043a\u0430 2"}[a]+"\u001b[0m");process.exit(1)}module.exports={errors:errors};
